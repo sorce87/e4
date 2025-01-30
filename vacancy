@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Systems Administrator II - Job Posting | e4 Strategic</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        
+        h2 {
+            color: #2c3e50;
+            margin-top: 25px;
+        }
+        
+        .requirements {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+        }
+        
+        .duties {
+            padding-left: 20px;
+        }
+        
+        .duties li {
+            margin-bottom: 10px;
+        }
+        
+        .notice {
+            background-color: #e8f4f8;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 30px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Systems Administrator II (MID LEVEL)</h1>
+
+    <h2>Purpose</h2>
+    <p>
+        Under general supervision, responsible for the day-to-day operations of the organization's client application platform, which includes installation, configuration, upgrade, decommissioning, administration, monitoring and maintenance of operating system and applications. The application environment includes but is not limited to Web servers, Applications servers, backend client connectivity for file transfer and communication of various types. All the afore mentioned is in support of business processing requirements and operating and service level agreements and in accordance with established routines. Performs software installations, upgrades and maintenance to both applications and operating systems. Provide 3rd level support to other System Administrators. Maintain relationship with internal developers and 3rd party suppliers.
+    </p>
+
+    <h2>Minimum Requirements</h2>
+    <div class="requirements">
+        <ul>
+            <li>Relevant 3-year tertiary qualification in IT</li>
+            <li>A+, N+, MCP advantageous</li>
+            <li>DevOps Certified</li>
+            <li>6-8 years related experience</li>
+        </ul>
+    </div>
+
+    <h2>Principal Duties and Responsibilities</h2>
+    <ol class="duties">
+        <li>Provision/decommission, maintain, monitor, and troubleshoot existing and new application environments.</li>
+        <li>Regularly engage with internal development teams and problem management to remediate issues identified on application environments within the organisations service level standards.</li>
+        <li>On occasion engage with clients to remediate backend connectivity issues.</li>
+        <li>Perform regular server patching on the above-mentioned environments to ensure optimal performance of server backends.</li>
+        <li>Investigate and mitigate all risks identified within the environments to ensure the organisations electronic security standards and policies are adhered to.</li>
+        <li>Perform regular application rollouts/updates based on internal business requirements.</li>
+        <li>Design and maintain Release Manager application deployment templates for applications deployment to the various environments.</li>
+        <li>Escalate all Infrastructure and Database issues identified to the internal Network Administration and Database Administration teams. Drive resolutions through these teams.</li>
+        <li>Perform annual resource planning exercise to ensure resource availability for the next financial year.</li>
+        <li>Maintain documented records of application layout.</li>
+        <li>Provide 3rd level support to other System Administrators.</li>
+    </ol>
+
+    <h2>Principal Responsibilities and Proficiencies</h2>
+    <div class="requirements">
+        <p>Proficiently install, administer, maintain, upgrade, and decommission the following services to assist in the management for the above-mentioned environments:</p>
+        <ul>
+            <li>IIS Management</li>
+            <li>.Net application configuration</li>
+            <li>Windows Services Management</li>
+            <li>Windows Event Logs</li>
+            <li>Application Event logs (inhouse)</li>
+            <li>System Centre Operations Manager</li>
+            <li>System Centre Configuration Manager</li>
+            <li>Microsoft Release Management</li>
+            <li>Microsoft Team Foundation Server</li>
+            <li>Backup Applications Management</li>
+        </ul>
+        <p>An understanding of:</p>
+        <ul>
+            <li>IP Routing</li>
+            <li>NLB</li>
+            <li>TCPIP</li>
+            <li>NAT</li>
+            <li>IPSEC</li>
+            <li>MPLS</li>
+            <li>QOS</li>
+            <li>FDDI</li>
+            <li>Server Room Environmental Standards</li>
+        </ul>
+    </div>
+    <div class="notice">
+        <p>EMAIL YOUR CV TO <a href="mailto:sorce@live.co.za">Click here to email</a></p>
+    </div>
+    <div class="notice">
+        <p>If you have not heard from me within 2 weeks, please consider your application as unsuccessful.</p>
+    </div>
+</body>
+</html>
